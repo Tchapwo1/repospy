@@ -14,11 +14,19 @@
 **Reverse-engineer any SaaS or website in 10 seconds.**  
 *Extracts tech stack, design tokens, public APIs, and generates a prompt to clone it in Cursor.*
 
+[![Live Playground](https://img.shields.io/badge/Live_Playground-vernedaily.xyz%2Fspy-A855F7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://vernedaily.xyz/spy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lime.svg)](https://opensource.org/licenses/MIT)
 [![Node: >=18](https://img.shields.io/badge/node->=18.0.0-blue.svg)](https://nodejs.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Tchapwo1/repospy)
 
 </div>
+
+---
+
+## 🌐 Instant Web Playground (No Terminal Required)
+
+On your phone or browser? Sniff any URL immediately at:  
+👉 **[vernedaily.xyz/spy](https://vernedaily.xyz/spy)**
 
 ---
 
