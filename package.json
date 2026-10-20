@@ -1,0 +1,33 @@
+{
+  "name": "repospy",
+  "version": "1.0.0",
+  "description": "Reverse-engineer any SaaS or website in 10 seconds. Extracts tech stack, design tokens, APIs, and generates a prompt to clone it in Cursor.",
+  "main": "src/analyzer.js",
+  "type": "module",
+  "bin": {
+    "repospy": "./bin/repospy.js"
+  },
+  "scripts": {
+    "start": "node ./bin/repospy.js",
+    "test": "node ./bin/repospy.js https://linear.app"
+  },
+  "keywords": [
+    "reverse-engineer",
+    "tech-stack",
+    "cursor",
+    "design-tokens",
+    "frontend",
+    "tailwind",
+    "ai-agent",
+    "developer-tools"
+  ],
+  "author": "Tchapwo1",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "commander": "^12.1.0",
+    "ora": "^8.1.0"
+  }
+}
