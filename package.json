@@ -5,7 +5,7 @@
   "main": "src/analyzer.js",
   "type": "module",
   "bin": {
-    "repospy": "./bin/repospy.js"
+    "repospy": "bin/repospy.js"
   },
   "scripts": {
     "start": "node ./bin/repospy.js",
